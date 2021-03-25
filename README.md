@@ -1,4 +1,5 @@
 # 🤠Do you know Tanay
+[tanay pic](tanay pic.jpeg)
  ## AKA **Tanay End Game** 🤯
  *viz Quiz game*
  
@@ -8,4 +9,4 @@
        * Nodejs
  * Now, it seems my view is clearer in this direction 😊
 
-###So, why aren't you giving this quiz a chance. **[PLAY](https://replit.com/@VishalKumar51/Tanay-End-Game?outputonly=1)###
+### So, why aren't you giving this quiz a chance. **[PLAY](https://replit.com/@VishalKumar51/Tanay-End-Game?outputonly=1)
