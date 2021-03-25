@@ -1,5 +1,5 @@
 # 🤠Do you know Tanay
-[tanay pic](tanay pic.jpeg)
+[Tanay sir](Tanay pic.jpeg)
  ## AKA **Tanay End Game** 🤯
  *viz Quiz game*
  
