@@ -2,17 +2,19 @@ var readlineSync = require("readline-sync");
 
  
 var score = 0;
+
+console.log("Hi Vishal here 👋")
 var userName = readlineSync.question("Hey! What's your name ");
 
-console.log("Welcome "+ userName + " to game 'Do you know Tanay?'");
+console.log("Welcome "+ userName + " to game 'Do you know me?'");
 
 var scoreBoard=[{
   name: "Tanay: ",
-  score: 10,
+  score: 3,
 },
 {
   name: "Akash: ",
-  score: 8,
+  score: 4,
 }]
 
 function play(question, answer){
@@ -30,17 +32,17 @@ function play(question, answer){
 
 
 var questions = [{
-    question: "Name of the camp run by Tanay Pratap: ",
-    answer: "Neog"
+    question: "On national level I played which sport: ",
+    answer: "Taekwondo"
 },{
-  question: "Where do Tanay live?: ",
-  answer: "Bangalore"
+  question: "Where do Vishal live?: ",
+  answer: "Punjab"
 },{
  question: "Tanay's favourite superhero?: ",
- answer: "Dhruv"
+ answer: "Ironman"
 },{
-  question: "Where do Tanay work: ",
-  answer: "Microsoft"
+  question: "What motivates me everytime: ",
+  answer: "Dreams"
   }] ;
 
 for(var i=0; i<questions.length; i++){
