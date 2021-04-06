@@ -9,4 +9,4 @@
        * Nodejs
  * Now, it seems my view is clearer in this direction 😊
 
-### So, why aren't you giving this quiz a chance. **[PLAY](https://replit.com/@VishalKumar51/Tanay-End-Game?outputonly=1)
+### So, why aren't you giving this quiz a chance. **[PLAY](https://replit.com/@VishalKumar51/Do-you-know-me?outputonly=1)
