@@ -1,5 +1,5 @@
 # 🤠Do you know Tanay
-[![Vishal here](tanaypratap.jpg)](https://replit.com/@VishalKumar51/Tanay-End-Game?outputonly=1)
+[![Vishal here](unknown.jpg)](https://replit.com/@VishalKumar51/Tanay-End-Game?outputonly=1)
  ## AKA **Tanay End Game** 🤯
  *viz Quiz game*
  
