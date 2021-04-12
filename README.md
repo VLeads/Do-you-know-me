@@ -1,12 +1,12 @@
 # 🤠Do you know Tanay
-[![Tanay sir](tanaypratap.jpg)](https://replit.com/@VishalKumar51/Tanay-End-Game?outputonly=1)
- ## AKA **Tanay End Game** 🤯
+[![Vishal here](unknown.jpg)](https://replit.com/@VishalKumar51/Tanay-End-Game?outputonly=1)
+ ## AKA **Vishal End Game** 🤯
  *viz Quiz game*
  
- * It just checks, how well do **I** or **You** know about instructor ***Tanay***
+ * It just checks, how well do **You** know about me ***Vishal***
  * It's manily built to learn what is
        * CLI
        * Nodejs
  * Now, it seems my view is clearer in this direction 😊
 
-### So, why aren't you giving this quiz a chance. **[PLAY](https://replit.com/@VishalKumar51/Tanay-End-Game?outputonly=1)
+### So, why aren't you giving this quiz a chance. [PLAY](https://replit.com/@VishalKumar51/Do-you-know-me?outputonly=1)
