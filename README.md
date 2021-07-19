@@ -4,9 +4,10 @@
  *viz Quiz game*
  
  * It just checks, how well do **You** know about me ***Vishal***
- * It's manily built to learn what is
-       * CLI
-       * Nodejs
+ * It's manily built to learn how to deal with
+              ***CLI*** via 
+       ***NodeJs***
+    
  * Now, it seems my view is clearer in this direction 😊
 
 ### So, why aren't you giving this quiz a chance. [PLAY](https://replit.com/@VishalKumar51/Do-you-know-me?outputonly=1)
