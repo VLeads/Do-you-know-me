@@ -1,4 +1,4 @@
-# 🤠Do you know Tanay
+# 🤠Do you know Me
 [![Vishal here](unknown.jpg)](https://replit.com/@VishalKumar51/Tanay-End-Game?outputonly=1)
  ## AKA **Vishal End Game** 🤯
  *viz Quiz game*
