@@ -3,7 +3,7 @@
  ## AKA **Vishal End Game** 🤯
  *viz Quiz game*
  
- * It just checks, how well do **You** know about me ***Vishal***
+ * It just checks, how well do **You** know about me i.e. ***Vishal***
  * It's manily built to learn how to deal with
               ***CLI*** via 
        ***NodeJs***
